@@ -1,2 +1,2 @@
-# NDUWAYO-NTWARI-PARFAIT-FINAL EXAM
- final exam 
+# NDUWAYO-NTWARI-PARFAIT---midsemester
+ Midsemester Repository
